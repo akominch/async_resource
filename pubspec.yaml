@@ -12,7 +12,7 @@ dependencies:
   meta: ^1.0.0
   path: ^1.0.0
   service_worker: ^0.2.0
-  rxdart: ^0.18.0
+  rxdart: ^0.22.0
 
 dev_dependencies:
   mockito: ^3.0.0
